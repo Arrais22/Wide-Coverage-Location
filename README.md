@@ -5,7 +5,7 @@ O projeto tem a intenção principal de treinar e exercitar a responsividade, on
 <br>
 <h2>Essa é a versão Desktop</h2> 
 <br>
-<img src=""/>
+<img src="https://github.com/Arrais22/Wide-Coverage-Location/blob/master/assets/imagem%20web.jpg?raw=true"/>
 <br>
 <br>
 <h2>Essa é a versão para celular</h2>
